@@ -1,1 +1,1 @@
-# kubernetes-rails-example
+Example of how to use kubernetes to deploy a rails application
